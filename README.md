@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 I’m a passionate and curious cybersecurity & cloud computing enthusiast currently completing my **Diploma in Information Technology** at **Belgium Campus iTversity**.  
-I'm on a mission to make the digital world safer, smarter, and more secure — one project at a time.
+I'm on a mission to make the digital world safer, smarter, and more secure, one project at a time.
 
 🔐 Cybersecurity | ☁️ Cloud Computing | 🧪 Ethical Hacking | 🔧 Network Security | 📡 IoT Security Systems
 
@@ -22,7 +22,7 @@ I'm on a mission to make the digital world safer, smarter, and more secure — o
 - **Cybersecurity Tools**: Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite  
 - **Cloud Platforms**: Microsoft Azure, AWS (learning)  
 - **Languages & Scripting**: Python, PowerShell, Bash, HTML/CSS  
-- **Concepts**: Penetration Testing, Threat Modeling, Privilege Escalation, SQL Injection, XSS  
+- **Concepts**: Penetration Testing, Threat Modelling, Privilege Escalation, SQL Injection, XSS  
 - **Systems**: Linux (Ubuntu, Kali), Windows Server, VirtualBox  
 - **Others**: Git, GitHub, Networking Fundamentals, System Administration  
 
@@ -46,7 +46,7 @@ I'm on a mission to make the digital world safer, smarter, and more secure — o
 > Demonstrating common web security flaws in a safe, educational setting with MySQL backends.
 
 > 💣 *Custom Ransomware Simulation*  
-> A simulation built for academic learning that mimics file encryption, popup alerts, and timed shutdowns (non-malicious).
+> A simulation built for academic learning that mimics file encryption, pop-up alerts, and timed shutdowns (non-malicious).
 
 ---
 
@@ -71,7 +71,7 @@ I'm on a mission to make the digital world safer, smarter, and more secure — o
 
 ## 🧩 Fun Fact
 
-> I believe that **security is not a feature — it’s a mindset**.  
+> I believe that **security is not a feature, it’s a mindset**.  
 > I’m fascinated by how ethical hackers think like adversaries to protect what matters most.  
 > And when I’m not on my terminal, I’m probably sketching new app ideas or watching tech breakdowns on YouTube.
 
@@ -79,7 +79,7 @@ I'm on a mission to make the digital world safer, smarter, and more secure — o
 
 ## 🤝 Let's Connect!
 
-I'm always open to collaborating on exciting security-focused projects, contributing to open source, or just chatting about the latest in infosec and cloud tech.
+I'm always open to collaborating on exciting security-focused projects, contributing to open-source initiatives, or simply discussing the latest developments in information security and cloud technology.
 
 📬 [Reach out on LinkedIn](https://www.linkedin.com/in/vhuthu-munyai-91426020b)
 
